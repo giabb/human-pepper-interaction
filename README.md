@@ -1,8 +1,10 @@
 # Human-Pepper™ Interaction: Your MoMA assistant 
 
-This project was developed during the 2020 Human-Robot interaction course held by [Prof. Iocchi](https://sites.google.com/a/dis.uniroma1.it/iocchi/home) at [Sapienza University of Rome](https://www.uniroma1.it/).
+This project was developed during the 2020 Human-Robot interaction (HRI) course held by [Prof. Iocchi](https://sites.google.com/a/dis.uniroma1.it/iocchi/home) at [Sapienza University of Rome](https://www.uniroma1.it/).
 
 The project was intended to be deployed on the real [Pepper™ robot](https://www.softbankrobotics.com/emea/it/pepper), but due to COVID-19 emergency, it has been developed in a remote fashion using [MODIM](https://bitbucket.org/mtlazaro/modim/src/master/), [NaoQI](http://doc.aldebaran.com/2-5/index_dev_guide.html).
+
+The purpose of this HRI application is to help the user find useful information about the Museum of Modern Art thanks to a Pepper™ robot.
 
 ## Summary
 
@@ -39,6 +41,7 @@ and the [Python script](https://github.com/giabb/human-pepper-interaction/tree/m
 ## Authors
 
 - **Giovanbattista Abbate** - [giabb](https://github.com/giabb)
+- **Mario Fiorino**
 
 ## License
 
@@ -47,6 +50,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - **Prof. Luca Iocchi** - *Provided Pepper™ environment* - [personal site](https://sites.google.com/a/dis.uniroma1.it/iocchi/home)
-- **Mario Fiorino** - *Provided text for the interactions*
 - **Billie Thompson** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
-
