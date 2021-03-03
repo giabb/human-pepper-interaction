@@ -34,7 +34,7 @@ and in [this video](https://github.com/giabb/human-pepper-interaction/blob/main/
 Some scripts shown in the video are not present in this folder because they are just some scripts to simplify the sintax of [pepper-tools](https://bitbucket.org/mtlazaro/pepper_tools/src/master/).
 
 If you want to change the behaviour of Pepper™, you can edit the files in [action folder](https://github.com/giabb/human-pepper-interaction/tree/main/src/actions/)
-and the [Python script](https://github.com/giabb/human-pepper-interaction/tree/main/src/scripts/)
+and the [Python script](https://github.com/giabb/human-pepper-interaction/tree/main/src/scripts/start.py)
 
 ## Authors
 
