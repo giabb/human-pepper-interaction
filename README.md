@@ -26,7 +26,7 @@ your local machine for development and testing purposes.
 
 ### Installing
 
-You can find installation notes of all the environment to emulate Pepper™ robot
+You can find installation notes on the environment to emulate Pepper™ robot
 in [docker folder](https://github.com/giabb/human-pepper-interaction/tree/main/docker/README.md).
 
 ## Running the tests
