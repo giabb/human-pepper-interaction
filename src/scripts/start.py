@@ -103,8 +103,6 @@ def intStart():
 					im.execute('fullmap')
 			
 		time.sleep(6)
-		#im.executeModality('TEXT_title','HRI- Abbate | Fiorino')
-		#im.executeModality('IMAGE','img/diaglogo.jpg')
 
 if __name__ == "__main__":
 	mws = ModimWSClient()
